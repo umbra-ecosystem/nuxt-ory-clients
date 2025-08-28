@@ -2,7 +2,8 @@
   "name": "ory-kratos-client",
   "version": "2.3.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
+  "type": "module",
   "scripts": {
     "build": "openapi-ts"
   },
@@ -12,5 +13,8 @@
   "packageManager": "pnpm@10.14.0",
   "devDependencies": {
     "@hey-api/openapi-ts": "0.81.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.x"
   }
 }
