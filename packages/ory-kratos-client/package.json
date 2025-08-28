@@ -25,5 +25,8 @@
   },
   "peerDependencies": {
     "typescript": "^5.x"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
