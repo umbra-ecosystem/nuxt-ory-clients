@@ -1,0 +1,16 @@
+{
+  "name": "ory-kratos-client",
+  "version": "2.3.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "openapi-ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "@hey-api/openapi-ts": "0.81.1"
+  }
+}
