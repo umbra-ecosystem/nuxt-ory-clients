@@ -6,6 +6,8 @@ settings:
 
 importers:
 
+  .: {}
+
   packages/ory-hydra-client:
     dependencies:
       typescript:
