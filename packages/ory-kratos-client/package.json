@@ -1,5 +1,5 @@
 {
-  "name": "ory-kratos-client",
+  "name": "@umbra-ecosystem/ory-kratos-client",
   "version": "2.3.0",
   "description": "",
   "main": "index.js",
