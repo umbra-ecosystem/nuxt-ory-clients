@@ -6,7 +6,6 @@
   "type": "module",
   "scripts": {
     "openapi-ts": "openapi-ts",
-    "build": "rolldown -c",
     "prepare": "rolldown -c"
   },
   "keywords": [],
