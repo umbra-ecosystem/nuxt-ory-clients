@@ -7,7 +7,7 @@
   "scripts": {
     "openapi-ts": "openapi-ts",
     "build": "rolldown -c",
-    "postinstall": "rolldown -c"
+    "prepare": "rolldown -c"
   },
   "keywords": [],
   "author": "",
