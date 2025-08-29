@@ -17,6 +17,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
   publish-gpr:
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: read
